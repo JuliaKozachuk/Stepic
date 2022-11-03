@@ -15,5 +15,6 @@ func main() {
 	//fmt.Println(minimumFromFour(a, b, c, d))
 
 	// func vote(x int, y int, z int) int {
+
 	// fmt.Scan(&x,&y,&z)
 }
